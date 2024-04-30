@@ -1,6 +1,6 @@
 PSEUDOKO 
     
-    A device driver for a pseudo stack device.
+    A Linux device driver for a pseudo stack device.
  
 The Linux character device type supports the following operations
 
